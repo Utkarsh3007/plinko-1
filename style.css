@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(95, 178, 255); 
+}
+canvas {
+  display: block;
+}
+.h-primary{
+  color: black;
+    padding: 4px;
+    margin: 20px;
+    text-align: left;
+    font-family: 'Bree Serif', serif;  
+}
+  
